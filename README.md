@@ -87,8 +87,4 @@ GitHub: https://github.com/Sri-balakumar
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
 ⭐ Star this repository if you found it useful!
